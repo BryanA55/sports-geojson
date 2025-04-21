@@ -1,0 +1,241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "name": "Chase Field", "team": "Diamondbacks", "logo": "/images/Arizona_Diamondbacks_logo_teal.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-112.0669444, 33.44527778]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Turner Field", "team": "Braves", "logo": "/images/Atlanta_Braves.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-84.38944444, 33.73527778]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Camden Yards", "team": "Orioles", "logo": "/images/Orioles.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-76.62166667, 39.28388889]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Fenway Park", "team": "Red Sox", "logo": "/images/red_sox.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-71.0975, 42.34638889]
+        }
+      }, 
+      {
+        "type": "Feature",
+        "properties": { "name": "Wrigley Field", "team": "Cubs", "logo": "/images/cubs.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-87.65555556, 41.94833333]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Rate Field", "team": "White Sox", "logo": "/images/white_sox.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-87.63388889, 41.83]
+        }
+      },      
+      {
+        "type": "Feature",
+        "properties": { "name": "Great American Ball Park", "team": "Reds", "logo": "/images/reds.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-84.50666667, 39.0975]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Progressive Field", "team": "Guardians", "logo": "/images/guardians.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-81.68527778, 41.49583333]
+        }
+      },  
+      {
+        "type": "Feature",
+        "properties": { "name": "Coors Field", "team": "Rockies", "logo": "/images/rockies.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-104.9941667, 39.75611111]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Comerica Park", "team": "Tigers", "logo": "/images/tigers.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-83.04861111, 42.33916667]
+        }
+      },  
+      {
+        "type": "Feature",
+        "properties": { "name": "Daikin Park", "team": "Astros", "logo": "/images/astros.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-95.35555556, 29.75694444]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Kauffman Stadium", "team": "Royals", "logo": "/images/royals.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-94.48055556, 39.05138889]
+        }
+      },     
+      {
+        "type": "Feature",
+        "properties": { "name": "Angel Stadium of Anaheim", "team": "Angels", "logo": "/images/angels.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-117.8827778, 33.80027778]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Dodger Stadium", "team": "Dodgers", "logo": "/images/dodgers.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-118.24, 34.07361111]
+        }
+      },      
+      {
+        "type": "Feature",
+        "properties": { "name": "Marlins Park", "team": "Marlins", "logo": "/images/marlins.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-80.21972222, 25.77805556]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Miller Park", "team": "Brewers", "logo": "/images/brewers.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [41.9484, 43.02833333]
+        }
+      },      
+      {
+        "type": "Feature",
+        "properties": { "name": "Target Field", "team": "Twins" , "logo": "/images/twins.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-87.97111111, 43.02833333]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Citi Field", "team": "Mets" , "logo": "/images/mets.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.84583333, 40.75694444]
+        }
+      },     
+      {
+        "type": "Feature",
+        "properties": { "name": "Yankee Stadium", "team": "Yankees" , "logo": "/images/yankees.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-73.92638889, 40.82916667]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Sutter Health Park", "team": "Athletics", "logo": "/images/athletics.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [121.5148, 38.5798]
+        }
+      },      {
+        "type": "Feature",
+        "properties": { "name": "Citizens Bank Park", "team": "Phillies" , "logo": "/image/phillies.png"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-75.16638889, 39.90583333]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "PNC Park", "team": "Pirates", "logo": "/images/pirates.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-80.00583333, 40.44694444]
+        }
+      },      {
+        "type": "Feature",
+        "properties": { "name": "Petco Park", "team": "Padres", "logo": "/images/padres.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-117.1565998, 32.70729983]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Safeco Field", "team": "Mariners", "logo": "/images/mariners.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.3325, 47.59138889]
+        }
+      },      {
+        "type": "Feature",
+        "properties": { "name": "AT&T Park", "team": "Giants", "logo": "/images/giants.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.3894444, 37.77833333]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Busch Stadium", "team": "Cardinals", "logo": "/images/cardinals.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-90.19305556, 38.6225]
+        }
+      },      {
+        "type": "Feature",
+        "properties": { "name": "Tropicana Field", "team": "Rays", "logo": "/images/rays.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-82.65333333, 27.76833333]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Gloe Life Field", "team": "Rangers", "logo": "/images/rangers.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-97.08277778, 32.75138889]
+        }
+      },      {
+        "type": "Feature",
+        "properties": { "name": "Rogers Centre", "team": "Blue Jays", "logo": "/images/blue_jays.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-79.38916667, 43.64138889]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": { "name": "Nationals Park", "team": "Nationals", "logo": "/images/nationals.png" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [38.87277778, -77.0075]
+        }
+      }
+    ]
+}
+  
