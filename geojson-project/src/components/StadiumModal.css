@@ -1,0 +1,20 @@
+.modal-image {
+    max-width: 400px;
+    margin: 10px;
+    display: block;
+}
+
+.custom-modal {
+    width: 70vw;  
+    max-width: 70vw; 
+    height: 80vh; 
+    max-height: 80vh;  
+}
+
+.image-credit {
+    font-size: 0.75rem;
+    margin-top: 0.5rem;
+    color: #666;
+  }
+  
+  

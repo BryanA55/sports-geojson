@@ -4,7 +4,7 @@ import './Info.css'
 function Info() {
     return (
         <Container className='info-container'>
-            <div>Welcome to Sports Stadium Finder</div>
+            <div>Sports Stadiums</div>
         </Container>
     );
 }

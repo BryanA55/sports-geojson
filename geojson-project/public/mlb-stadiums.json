@@ -3,15 +3,27 @@
     "features": [
       {
         "type": "Feature",
-        "properties": { "name": "Chase Field", "team": "Diamondbacks", "logo": "/images/Arizona_Diamondbacks_logo_teal.png" },
+        "properties": {
+          "name": "Chase Field",
+          "team": "Diamondbacks",
+          "logo": "/images/Arizona_Diamondbacks_logo_teal.png",
+          "stadium": "/images/stadiums/chase-field.jpg",
+          "credit": "<a href=\"https://www.dvidshub.net/image/8099146/reserve-10-warthogs-flyover-2023-world-series\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Staff Sgt. Tyler J. Bolken</a> on Wikimedia Commons (Public Domain)" 
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-112.0669444, 33.44527778]
-        }
+        } 
       },
       {
         "type": "Feature",
-        "properties": { "name": "Turner Field", "team": "Braves", "logo": "/images/Atlanta_Braves.png"},
+        "properties": {
+          "name": "Truist Park",
+          "team": "Braves",
+          "logo": "/images/Atlanta_Braves.png",
+          "stadium": "/images/stadiums/truist-park.jpg",
+          "credit": "<a href=\"https://en.wikipedia.org/wiki/User:Thechased\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Thechased</a> on Wikimedia Commons (CC BY 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-84.38944444, 33.73527778]
@@ -19,7 +31,13 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Camden Yards", "team": "Orioles", "logo": "/images/Orioles.png"},
+        "properties": {
+          "name": "Camden Yards",
+          "team": "Orioles",
+          "logo": "/images/Orioles.png",
+          "stadium": "/images/stadiums/camden-yards.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Chris6d\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Chris6d</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-76.62166667, 39.28388889]
@@ -27,7 +45,13 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Fenway Park", "team": "Red Sox", "logo": "/images/red_sox.png"},
+        "properties": {
+          "name": "Fenway Park",
+          "team": "Red Sox",
+          "logo": "/images/red_sox.png",
+          "stadium": "/images/stadiums/fenway-park.jpg",
+          "credit": "<a href=\"http://www.hanscom.af.mil/news/story.asp?id=123368259\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Rick Berry</a> on Wikimedia Commons (Public Domain)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-71.0975, 42.34638889]
@@ -35,7 +59,13 @@
       }, 
       {
         "type": "Feature",
-        "properties": { "name": "Wrigley Field", "team": "Cubs", "logo": "/images/cubs.png" },
+        "properties": {
+          "name": "Wrigley Field",
+          "team": "Cubs",
+          "logo": "/images/cubs.png",
+          "stadium": "/images/stadiums/wrigley-field.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Sea_Cow\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Sea Cow</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-87.65555556, 41.94833333]
@@ -43,7 +73,13 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Rate Field", "team": "White Sox", "logo": "/images/white_sox.png"},
+        "properties": {
+          "name": "Rate Field",
+          "team": "White Sox",
+          "logo": "/images/white_sox.png",
+          "stadium": "/images/stadiums/rate-field.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Another_Believer\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Another Believer</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-87.63388889, 41.83]
@@ -51,7 +87,13 @@
       },      
       {
         "type": "Feature",
-        "properties": { "name": "Great American Ball Park", "team": "Reds", "logo": "/images/reds.png" },
+        "properties": {
+          "name": "Great American Ball Park",
+          "team": "Reds",
+          "logo": "/images/reds.png",
+          "stadium": "/images/stadiums/great-american.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Laslovarga\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Laslovarga</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-84.50666667, 39.0975]
@@ -59,7 +101,13 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Progressive Field", "team": "Guardians", "logo": "/images/guardians.png"},
+        "properties": {
+          "name": "Progressive Field",
+          "team": "Guardians",
+          "logo": "/images/guardians.png",
+          "stadium": "/images/stadiums/progressive-field.jpg",
+          "credit": "<a href=\"https://www.flickr.com/people/62091376@N03\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Erik Drost</a> on Flickr (CC BY 2.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-81.68527778, 41.49583333]
@@ -67,7 +115,13 @@
       },  
       {
         "type": "Feature",
-        "properties": { "name": "Coors Field", "team": "Rockies", "logo": "/images/rockies.png"},
+        "properties": {
+          "name": "Coors Field",
+          "team": "Rockies",
+          "logo": "/images/rockies.png",
+          "stadium": "/images/stadiums/coors-field.jpg",
+          "credit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Thelastcanadian&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thelastcanadian (page does not exist)\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Thelastcanadian</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-104.9941667, 39.75611111]
@@ -75,7 +129,13 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Comerica Park", "team": "Tigers", "logo": "/images/tigers.png"},
+        "properties": {
+          "name": "Comerica Park",
+          "team": "Tigers",
+          "logo": "/images/tigers.png",
+          "stadium": "images/stadiums/comerica-park.jpg",
+          "credit": "<a href=\"https://en.wikipedia.org/wiki/User:MJCdetroit\" class=\"extiw\" title=\"en:User:MJCdetroit\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by MJCdetroit</a> on Wikimedia Commons (CC BY-SA 3.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-83.04861111, 42.33916667]
@@ -83,7 +143,13 @@
       },  
       {
         "type": "Feature",
-        "properties": { "name": "Daikin Park", "team": "Astros", "logo": "/images/astros.png" },
+        "properties": {
+          "name": "Daikin Park",
+          "team": "Astros",
+          "logo": "/images/astros.png",
+          "stadium": "/images/stadiums/daikin-park.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Another_Believer\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Another Believer</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-95.35555556, 29.75694444]
@@ -91,7 +157,13 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Kauffman Stadium", "team": "Royals", "logo": "/images/royals.png" },
+        "properties": {
+          "name": "Kauffman Stadium",
+          "team": "Royals",
+          "logo": "/images/royals.png",
+          "stadium": "/images/stadiums/kauffman-stadium.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Chibears85\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Chibears85</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-94.48055556, 39.05138889]
@@ -99,7 +171,13 @@
       },     
       {
         "type": "Feature",
-        "properties": { "name": "Angel Stadium of Anaheim", "team": "Angels", "logo": "/images/angels.png"},
+        "properties": {
+          "name": "Angel Stadium of Anaheim",
+          "team": "Angels",
+          "logo": "/images/angels.png",
+          "stadium": "/images/stadiums/angel-stadium.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:CrispyCream27\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by CrispyCream27</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-117.8827778, 33.80027778]
@@ -107,7 +185,13 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Dodger Stadium", "team": "Dodgers", "logo": "/images/dodgers.png" },
+        "properties": {
+          "name": "Dodger Stadium",
+          "team": "Dodgers",
+          "logo": "/images/dodgers.png",
+          "stadium": "/images/stadiums/dodger-stadium.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Junkyardsparkle\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Junkyardsparkle</a> on Wikimedia Commons (CC0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-118.24, 34.07361111]
@@ -115,7 +199,13 @@
       },      
       {
         "type": "Feature",
-        "properties": { "name": "Marlins Park", "team": "Marlins", "logo": "/images/marlins.png" },
+        "properties": {
+          "name": "LoanDepot Park",
+          "team": "Marlins",
+          "logo": "/images/marlins.png",
+          "stadium": "/images/stadiums/loan-depot.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Ven-Lib\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Ven-Lib</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-80.21972222, 25.77805556]
@@ -123,15 +213,27 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Miller Park", "team": "Brewers", "logo": "/images/brewers.png" },
+        "properties": {
+          "name": "American Family Field",
+          "team": "Brewers",
+          "logo": "/images/brewers.png",
+          "stadium": "/images/stadiums/american-family.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/w/index.php?title=User:Brewersfan1061\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Brewersfan1061</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
-          "coordinates": [41.9484, 43.02833333]
+          "coordinates": [-87.97111111, 43.02833333]
         }
       },      
       {
         "type": "Feature",
-        "properties": { "name": "Target Field", "team": "Twins" , "logo": "/images/twins.png"},
+        "properties": {
+          "name": "Target Field",
+          "team": "Twins",
+          "logo": "/images/twins.png",
+          "stadium": "/images/stadiums/target-field.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Lectrician2\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Lectrician2</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-87.97111111, 43.02833333]
@@ -139,7 +241,13 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Citi Field", "team": "Mets" , "logo": "/images/mets.png"},
+        "properties": {
+          "name": "Citi Field",
+          "team": "Mets" ,
+          "logo": "/images/mets.png",
+          "stadium": "/images/stadiums/citi-field.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Chris6d\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Chris6d</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-73.84583333, 40.75694444]
@@ -147,7 +255,13 @@
       },     
       {
         "type": "Feature",
-        "properties": { "name": "Yankee Stadium", "team": "Yankees" , "logo": "/images/yankees.png"},
+        "properties": {
+          "name": "Yankee Stadium",
+          "team": "Yankees" ,
+          "logo": "/images/yankees.png",
+          "stadium": "/images/stadiums/yankee-stadium.jpg",
+          "credit": "<a href=\"https://www.flickr.com/people/35502434@N08\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by vtravelled.com</a> on Flickr (<a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 2.0</a>)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-73.92638889, 40.82916667]
@@ -155,14 +269,26 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Sutter Health Park", "team": "Athletics", "logo": "/images/athletics.png" },
+        "properties": {
+          "name": "Sutter Health Park",
+          "team": "Athletics",
+          "logo": "/images/athletics.png",
+          "stadium": "images/stadiums/sutter-health.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Quintin_Soloviev\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Quintin Soloviev</a> (<a href=\"https://creativecommons.org/licenses/by/4.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 4.0</a>)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [121.5148, 38.5798]
         }
       },      {
         "type": "Feature",
-        "properties": { "name": "Citizens Bank Park", "team": "Phillies" , "logo": "/image/phillies.png"},
+        "properties": {
+          "name": "Citizens Bank Park",
+          "team": "Phillies" ,
+          "logo": "/images/phillies.png",
+          "stadium": "/images/stadiums/citizens-bank.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Chris6d\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Chris6d</a> on Wikimedia Commons (CC BY-SA 4.0)"        
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-75.16638889, 39.90583333]
@@ -170,14 +296,26 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "PNC Park", "team": "Pirates", "logo": "/images/pirates.png" },
+        "properties": {
+          "name": "PNC Park",
+          "team": "Pirates",
+          "logo": "/images/pirates.png",
+          "stadium": "/images/stadiums/pnc-park.jpg",
+          "credit": "<a href=\"https://unsplash.com/@jcpeacock\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Joshua Peacock</a> on Unsplash (CC0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-80.00583333, 40.44694444]
         }
       },      {
         "type": "Feature",
-        "properties": { "name": "Petco Park", "team": "Padres", "logo": "/images/padres.png" },
+        "properties": {
+          "name": "Petco Park",
+          "team": "Padres",
+          "logo": "/images/padres.png",
+          "stadium": "/images/stadiums/petco-park.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Mds08011\" target=\"_blank\" rel=\"noopener noreferrer\">Mds08011</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 4.0</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=82700361\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-117.1565998, 32.70729983]
@@ -185,14 +323,27 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Safeco Field", "team": "Mariners", "logo": "/images/mariners.png" },
+        "properties": {
+            "name": "T-Mobile Park",
+            "team": "Mariners",
+            "logo": "/images/mariners.png",
+            "stadium": "/images/stadiums/tmobile-park.jpg",
+            "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Cacophony\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Cacophony</a> on Wikimedia Commons (CC BY-SA 3.0)"
+          },
         "geometry": {
           "type": "Point",
           "coordinates": [-122.3325, 47.59138889]
         }
-      },      {
+      },      
+      {
         "type": "Feature",
-        "properties": { "name": "AT&T Park", "team": "Giants", "logo": "/images/giants.png" },
+        "properties": {
+          "name": "AT&T Park",
+          "team": "Giants",
+          "logo": "/images/giants.png",
+          "stadium": "/images/stadiums/oracle-park.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Chris6d\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Chris6d</a> on Wikimedia Commons (CC BY-SA 4.0)"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-122.3894444, 37.77833333]
@@ -200,14 +351,26 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Busch Stadium", "team": "Cardinals", "logo": "/images/cardinals.png" },
+        "properties": {
+          "name": "Busch Stadium",
+          "team": "Cardinals",
+          "logo": "/images/cardinals.png",
+          "stadium": "/images/stadiums/busch-stadium.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/w/index.php?title=User:Lightmetro\" target=\"_blank\" rel=\"noopener noreferrer\">Lightmetro</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=125070605\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-90.19305556, 38.6225]
         }
       },      {
         "type": "Feature",
-        "properties": { "name": "Tropicana Field", "team": "Rays", "logo": "/images/rays.png" },
+        "properties": {
+          "name": "Tropicana Field",
+          "team": "Rays",
+          "logo": "/images/rays.png",
+          "stadium": "/images/stadiums/tropicana-field.jpg",
+          "credit": "<a href=\"https://commons.wikimedia.org/w/index.php?title=User:Vmartin12\" target=\"_blank\" rel=\"noopener noreferrer\">Vmartin12</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=118426472\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-82.65333333, 27.76833333]
@@ -215,14 +378,26 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Gloe Life Field", "team": "Rangers", "logo": "/images/rangers.png" },
+        "properties": {
+          "name": "Gloe Life Field",
+          "team": "Rangers",
+          "logo": "/images/rangers.png",
+          "stadium": "/images/stadiums/globe-life.jpg",
+          "credit": "<a href=\"https://www.flickr.com/photos/slgc/51376092262/\" target=\"_blank\" rel=\"noopener noreferrer\">slgckgc</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 2.0</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=140861416\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-97.08277778, 32.75138889]
         }
       },      {
         "type": "Feature",
-        "properties": { "name": "Rogers Centre", "team": "Blue Jays", "logo": "/images/blue_jays.png" },
+        "properties": {
+          "name": "Rogers Centre",
+          "team": "Blue Jays",
+          "logo": "/images/blue_jays.png",
+          "stadium": "/images/stadiums/rogers-centre.jpg",
+          "credit": "<a href=\"//commons.wikimedia.org/wiki/User:Taxiarchos228\" target=\"_blank\" rel=\"noopener noreferrer\">Taxiarchos228</a> - <span class=\"int-own-work\" lang=\"en\">Own work</span>, <a href=\"http://artlibre.org/licence/lal/en\" target=\"_blank\" rel=\"noopener noreferrer\">FAL</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=17074425\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [-79.38916667, 43.64138889]
@@ -230,7 +405,13 @@
       },
       {
         "type": "Feature",
-        "properties": { "name": "Nationals Park", "team": "Nationals", "logo": "/images/nationals.png" },
+        "properties": {
+          "name": "Nationals Park",
+          "team": "Nationals",
+          "logo": "/images/nationals.png",
+          "stadium": "/images/stadiums/nationals-park.jpg",
+          "credit": "<a href=\"//commons.wikimedia.org/wiki/User:AgnosticPreachersKid\" target=\"_blank\" rel=\"noopener noreferrer\">AgnosticPreachersKid</a> - <span class=\"int-own-work\" lang=\"en\">Own work</span>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=92037317\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
+        },
         "geometry": {
           "type": "Point",
           "coordinates": [38.87277778, -77.0075]
