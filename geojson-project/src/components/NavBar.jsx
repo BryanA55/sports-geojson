@@ -11,11 +11,7 @@ function NavBar() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link href="#home">Home</Nav.Link>
-              <Nav.Link href="#link">MLB</Nav.Link>
-              <Nav.Link href="#link">NFL</Nav.Link>
-              <Nav.Link href="#link">NBA</Nav.Link>
-              <Nav.Link href="#link">NHL</Nav.Link>
+              <Nav.Link href="#home">MLB</Nav.Link>
             </Nav>
           </Navbar.Collapse>
         </Container>

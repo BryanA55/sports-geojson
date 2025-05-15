@@ -8,6 +8,8 @@
           "team": "Diamondbacks",
           "logo": "/images/Arizona_Diamondbacks_logo_teal.png",
           "stadium": "/images/stadiums/chase-field.jpg",
+          "link": "https://www.mlb.com/dbacks/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://www.dvidshub.net/image/8099146/reserve-10-warthogs-flyover-2023-world-series\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Staff Sgt. Tyler J. Bolken</a> on Wikimedia Commons (Public Domain)" 
         },
         "geometry": {
@@ -22,6 +24,8 @@
           "team": "Braves",
           "logo": "/images/Atlanta_Braves.png",
           "stadium": "/images/stadiums/truist-park.jpg",
+          "link": "https://www.mlb.com/braves/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://en.wikipedia.org/wiki/User:Thechased\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Thechased</a> on Wikimedia Commons (CC BY 4.0)"
         },
         "geometry": {
@@ -36,6 +40,8 @@
           "team": "Orioles",
           "logo": "/images/Orioles.png",
           "stadium": "/images/stadiums/camden-yards.jpg",
+          "link": "https://www.mlb.com/orioles/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Chris6d\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Chris6d</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -50,6 +56,8 @@
           "team": "Red Sox",
           "logo": "/images/red_sox.png",
           "stadium": "/images/stadiums/fenway-park.jpg",
+          "link": "https://www.mlb.com/redsox/ballpark",
+          "league": "AL",
           "credit": "<a href=\"http://www.hanscom.af.mil/news/story.asp?id=123368259\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Rick Berry</a> on Wikimedia Commons (Public Domain)"
         },
         "geometry": {
@@ -64,6 +72,8 @@
           "team": "Cubs",
           "logo": "/images/cubs.png",
           "stadium": "/images/stadiums/wrigley-field.jpg",
+          "link": "https://www.mlb.com/cubs/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Sea_Cow\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Sea Cow</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -78,6 +88,8 @@
           "team": "White Sox",
           "logo": "/images/white_sox.png",
           "stadium": "/images/stadiums/rate-field.jpg",
+          "link": "https://www.mlb.com/whitesox/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Another_Believer\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Another Believer</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -92,6 +104,8 @@
           "team": "Reds",
           "logo": "/images/reds.png",
           "stadium": "/images/stadiums/great-american.jpg",
+          "link": "https://www.mlb.com/reds/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Laslovarga\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Laslovarga</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -106,6 +120,8 @@
           "team": "Guardians",
           "logo": "/images/guardians.png",
           "stadium": "/images/stadiums/progressive-field.jpg",
+          "link": "https://www.mlb.com/guardians/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://www.flickr.com/people/62091376@N03\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Erik Drost</a> on Flickr (CC BY 2.0)"
         },
         "geometry": {
@@ -120,6 +136,8 @@
           "team": "Rockies",
           "logo": "/images/rockies.png",
           "stadium": "/images/stadiums/coors-field.jpg",
+          "link": "https://www.mlb.com/rockies/ballpark",
+          "league": "NL",
           "credit": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Thelastcanadian&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Thelastcanadian (page does not exist)\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Thelastcanadian</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -134,6 +152,8 @@
           "team": "Tigers",
           "logo": "/images/tigers.png",
           "stadium": "images/stadiums/comerica-park.jpg",
+          "link": "https://www.mlb.com/tigers/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://en.wikipedia.org/wiki/User:MJCdetroit\" class=\"extiw\" title=\"en:User:MJCdetroit\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by MJCdetroit</a> on Wikimedia Commons (CC BY-SA 3.0)"
         },
         "geometry": {
@@ -148,6 +168,8 @@
           "team": "Astros",
           "logo": "/images/astros.png",
           "stadium": "/images/stadiums/daikin-park.jpg",
+          "link": "https://www.mlb.com/astros/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Another_Believer\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Another Believer</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -162,6 +184,8 @@
           "team": "Royals",
           "logo": "/images/royals.png",
           "stadium": "/images/stadiums/kauffman-stadium.jpg",
+          "link": "https://www.mlb.com/royals/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Chibears85\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Chibears85</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -176,6 +200,8 @@
           "team": "Angels",
           "logo": "/images/angels.png",
           "stadium": "/images/stadiums/angel-stadium.jpg",
+          "link": "https://www.mlb.com/angels/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:CrispyCream27\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by CrispyCream27</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -190,6 +216,8 @@
           "team": "Dodgers",
           "logo": "/images/dodgers.png",
           "stadium": "/images/stadiums/dodger-stadium.jpg",
+          "link": "https://www.mlb.com/dodgers/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Junkyardsparkle\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Junkyardsparkle</a> on Wikimedia Commons (CC0)"
         },
         "geometry": {
@@ -204,6 +232,8 @@
           "team": "Marlins",
           "logo": "/images/marlins.png",
           "stadium": "/images/stadiums/loan-depot.jpg",
+          "link": "https://www.mlb.com/marlins/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Ven-Lib\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Ven-Lib</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -218,6 +248,8 @@
           "team": "Brewers",
           "logo": "/images/brewers.png",
           "stadium": "/images/stadiums/american-family.jpg",
+          "link": "https://www.mlb.com/brewers/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://commons.wikimedia.org/w/index.php?title=User:Brewersfan1061\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Brewersfan1061</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -232,6 +264,8 @@
           "team": "Twins",
           "logo": "/images/twins.png",
           "stadium": "/images/stadiums/target-field.jpg",
+          "link": "https://www.mlb.com/twins/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Lectrician2\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Lectrician2</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -246,6 +280,8 @@
           "team": "Mets" ,
           "logo": "/images/mets.png",
           "stadium": "/images/stadiums/citi-field.jpg",
+          "link": "https://www.mlb.com/mets/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Chris6d\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Chris6d</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -260,6 +296,8 @@
           "team": "Yankees" ,
           "logo": "/images/yankees.png",
           "stadium": "/images/stadiums/yankee-stadium.jpg",
+          "link": "https://www.mlb.com/yankees/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://www.flickr.com/people/35502434@N08\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by vtravelled.com</a> on Flickr (<a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 2.0</a>)"
         },
         "geometry": {
@@ -274,11 +312,13 @@
           "team": "Athletics",
           "logo": "/images/athletics.png",
           "stadium": "images/stadiums/sutter-health.jpg",
+          "link": "https://www.mlb.com/athletics/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Quintin_Soloviev\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Quintin Soloviev</a> (<a href=\"https://creativecommons.org/licenses/by/4.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 4.0</a>)"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [121.5148, 38.5798]
+          "coordinates": [-121.5138, 38.5803722]
         }
       },      {
         "type": "Feature",
@@ -287,6 +327,8 @@
           "team": "Phillies" ,
           "logo": "/images/phillies.png",
           "stadium": "/images/stadiums/citizens-bank.jpg",
+          "link": "https://www.mlb.com/phillies/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Chris6d\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Chris6d</a> on Wikimedia Commons (CC BY-SA 4.0)"        
         },
         "geometry": {
@@ -301,6 +343,8 @@
           "team": "Pirates",
           "logo": "/images/pirates.png",
           "stadium": "/images/stadiums/pnc-park.jpg",
+          "link": "https://www.mlb.com/pirates/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://unsplash.com/@jcpeacock\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Joshua Peacock</a> on Unsplash (CC0)"
         },
         "geometry": {
@@ -314,6 +358,8 @@
           "team": "Padres",
           "logo": "/images/padres.png",
           "stadium": "/images/stadiums/petco-park.jpg",
+          "link": "https://www.mlb.com/padres/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Mds08011\" target=\"_blank\" rel=\"noopener noreferrer\">Mds08011</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 4.0</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=82700361\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
         },
         "geometry": {
@@ -328,6 +374,8 @@
             "team": "Mariners",
             "logo": "/images/mariners.png",
             "stadium": "/images/stadiums/tmobile-park.jpg",
+            "link": "https://www.mlb.com/mariners/ballpark",
+            "league": "AL",
             "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Cacophony\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Cacophony</a> on Wikimedia Commons (CC BY-SA 3.0)"
           },
         "geometry": {
@@ -342,6 +390,8 @@
           "team": "Giants",
           "logo": "/images/giants.png",
           "stadium": "/images/stadiums/oracle-park.jpg",
+          "link": "https://www.mlb.com/giants/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://commons.wikimedia.org/wiki/User:Chris6d\" target=\"_blank\" rel=\"noopener noreferrer\">Photo by Chris6d</a> on Wikimedia Commons (CC BY-SA 4.0)"
         },
         "geometry": {
@@ -356,6 +406,8 @@
           "team": "Cardinals",
           "logo": "/images/cardinals.png",
           "stadium": "/images/stadiums/busch-stadium.jpg",
+          "link": "https://www.mlb.com/cardinals/ballpark",
+          "league": "NL",
           "credit": "<a href=\"https://commons.wikimedia.org/w/index.php?title=User:Lightmetro\" target=\"_blank\" rel=\"noopener noreferrer\">Lightmetro</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=125070605\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
         },
         "geometry": {
@@ -369,6 +421,8 @@
           "team": "Rays",
           "logo": "/images/rays.png",
           "stadium": "/images/stadiums/tropicana-field.jpg",
+          "link": "https://www.mlb.com/rays/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://commons.wikimedia.org/w/index.php?title=User:Vmartin12\" target=\"_blank\" rel=\"noopener noreferrer\">Vmartin12</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=118426472\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
         },
         "geometry": {
@@ -383,6 +437,8 @@
           "team": "Rangers",
           "logo": "/images/rangers.png",
           "stadium": "/images/stadiums/globe-life.jpg",
+          "link": "https://www.mlb.com/rangers/ballpark",
+          "league": "AL",
           "credit": "<a href=\"https://www.flickr.com/photos/slgc/51376092262/\" target=\"_blank\" rel=\"noopener noreferrer\">slgckgc</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 2.0</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=140861416\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
         },
         "geometry": {
@@ -396,6 +452,8 @@
           "team": "Blue Jays",
           "logo": "/images/blue_jays.png",
           "stadium": "/images/stadiums/rogers-centre.jpg",
+          "link": "https://www.mlb.com/bluejays/ballpark",
+          "league": "AL",
           "credit": "<a href=\"//commons.wikimedia.org/wiki/User:Taxiarchos228\" target=\"_blank\" rel=\"noopener noreferrer\">Taxiarchos228</a> - <span class=\"int-own-work\" lang=\"en\">Own work</span>, <a href=\"http://artlibre.org/licence/lal/en\" target=\"_blank\" rel=\"noopener noreferrer\">FAL</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=17074425\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
         },
         "geometry": {
@@ -410,11 +468,13 @@
           "team": "Nationals",
           "logo": "/images/nationals.png",
           "stadium": "/images/stadiums/nationals-park.jpg",
+          "link": "https://www.mlb.com/nationals/ballpark",
+          "league": "NL",
           "credit": "<a href=\"//commons.wikimedia.org/wiki/User:AgnosticPreachersKid\" target=\"_blank\" rel=\"noopener noreferrer\">AgnosticPreachersKid</a> - <span class=\"int-own-work\" lang=\"en\">Own work</span>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, <a href=\"https://commons.wikimedia.org/w/index.php?curid=92037317\" target=\"_blank\" rel=\"noopener noreferrer\">Link</a>"
         },
         "geometry": {
           "type": "Point",
-          "coordinates": [38.87277778, -77.0075]
+          "coordinates": [-77.0075, 38.872778]
         }
       }
     ]

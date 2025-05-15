@@ -24,6 +24,16 @@ const StadiumModal = ({ show, onHide, data }) => {
         )}
       </Modal.Body>
       <Modal.Footer>
+        {data.link && (
+          <Button
+            variant="primary"
+            href={data.link}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Visit Stadium Website
+          </Button>
+        )}
         <Button variant="secondary" onClick={onHide}>
           Close
         </Button>
@@ -33,3 +43,4 @@ const StadiumModal = ({ show, onHide, data }) => {
 };
 
 export default StadiumModal;
+
